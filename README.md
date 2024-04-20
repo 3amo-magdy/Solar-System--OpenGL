@@ -12,9 +12,9 @@ The Solar System project is a visualization of the celestial bodies in our solar
 - Navigation:
     - Move camera: WASD keys.
     - Rotate camera:
-        - Up/Down: rotate around x axis.
-        - Left/Right: rotate around Z axis.
-        - E/Q: rotate around y axis.
+        - Up/Down: rotate around the x axis.
+        - Left/Right: rotate around the z axis.
+        - E/Q: rotate around the y axis.
     - Acceleration: Left-shift key (repeatedly pressed).
 - Pause/resume animation: "P" key.
 - Toggle orbits visibility: "O" key.
