@@ -20,9 +20,9 @@ The Solar System project is a visualization of the celestial bodies in our solar
 
 ## Needed Libraries 
 
-- **Freeglut** (***not included*** in source code)
-- **Glew** (***not included*** in source code)
-- **FreeImage** (***included*** in source code)
+- **Freeglut**
+- **Glew**
+- **FreeImage**
 ---------------
 
 # Project Modules & Classes
